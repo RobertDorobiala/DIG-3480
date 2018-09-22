@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pick Up
+  - Bad Pickup
+  - Moving Wall
+  - NorthWall
+  - EndPosition
+  - StartPosition
   layers:
   - Default
   - TransparentFX
